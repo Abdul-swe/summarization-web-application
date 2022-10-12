@@ -1,1 +1,1 @@
-# summarization-web-application
+# Article Summarization Web Application
